@@ -1,0 +1,15 @@
+{
+	"name"		: "BuildingBlocks-FrontEnd",
+	"version"	: "0.0.1",
+	"main"		: ["./js/main.js", "./css/main.css"],
+	"ignore"	: [
+		".gitignore",
+		"README.md"
+	},
+	"dependencies": 
+	{
+		"bootstrap"	: "latest",
+		"backbone"	: "latest",
+		"underscore"	: "latest"
+	}
+}
